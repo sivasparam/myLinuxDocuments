@@ -1,0 +1,6 @@
+alias  docs='cd /home/siva/Documents'
+alias  myjavaws='cd /home/siva/Documents/JavaExample'
+alias  myjava='cd /home/siva/Documents/JavaExample'
+alias  mj='cd /home/siva/Documents/JavaExample'
+alias  l='ls -lrt'
+alias  c='clear'
